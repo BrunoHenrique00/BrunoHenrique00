@@ -1,7 +1,7 @@
 # Bruno Henrique 👨‍💻
 
 [![GitHub followers](https://img.shields.io/github/followers/brunohenrique00?label=Follow&style=social)](https://github.com/brunohenrique00/?tab=follow)
-[![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-henrique-moreira-3131891a4/)](https://www.linkedin.com/in/bruno-henrique-moreira-3131891a4/)---
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-henrique-moreira-3131891a4/)](https://www.linkedin.com/in/bruno-henrique-moreira-3131891a4/)
 
 ## Hi there 👋,
 
